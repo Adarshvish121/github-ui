@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.card-Profile {
+  border-radius: 8px solid red;
+  background-color: rgb(18, 17, 19);
+  width: 500px;
+  padding: 20px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  border-radius: 27px;
+}
+
+.card img {
+  width: 300px;
+  border-radius: 50%;
+  border: 2px solid rgb(246, 241, 241);
+}
+
+.card h2 {
+  margin: 8px 0;
+  color: #dce8e8;
+
+}
+
+.card p {
+  margin: 4px 0;
+  color: #dce8e8;
+}
+
+form {
+  justify-content: center;
+  text-align: center;
+  padding: 15px;
+  margin: auto;
+  background-color: rgb(0, 85, 255);
+}
+
+input {
+  padding: 5px;
+  border-radius: 9px;
+  margin: 2px;
+}
+
+button {
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 7px;
+  width: 75px;
+  background-color: rebeccapurple;
+  color: white;
+  cursor: pointer;
+}
+
+span {
+  color: blue;
+}
